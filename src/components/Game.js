@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import './Game.scss'
-// require('./Game.scss');
-
 
 const vectors = {37:[0, 1], 38:[1, 0], 39:[0, -1], 40:[-1, 0]}
 class Game extends Component {
